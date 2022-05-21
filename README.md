@@ -1,3 +1,6 @@
+THIS IS A PRACTICE TOY PROJECT BASED ON COURSE: https://scrimba.com/learn/learnreact
+BIULD AND AIRBNB EXPERIENCES CLONE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
