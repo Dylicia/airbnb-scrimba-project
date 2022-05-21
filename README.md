@@ -1,4 +1,4 @@
-THIS IS A PRACTICE TOY PROJECT BASED ON COURSE: https://scrimba.com/learn/learnreact
+THIS IS A PRACTICE TOY PROJECT BASED ON COURSE: https://scrimba.com/learn/learnreact .\
 BIULD AND AIRBNB EXPERIENCES CLONE
 
 # Getting Started with Create React App
